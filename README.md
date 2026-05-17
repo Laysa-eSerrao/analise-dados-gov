@@ -97,14 +97,12 @@ O script atual utiliza dados simulados com a mesma estrutura do portal para fins
 ---
  
 ## 📊 Visualizações
- 
-| Gráfico | Descrição |
-|---|---|
-| `01_gastos_por_orgao.png` | Barras horizontais — total por ministério |
-| `02_evolucao_anual.png` | Série temporal — top 4 órgãos |
-| `03_categorias.png` | Pizza + barras — distribuição por categoria |
-| `04_heatmap_mensal.png` | Heatmap — sazonalidade mensal |
-| `05_regressao_linear.png` | Regressão linear — tendência temporal |
+
+![Gastos por Órgão](01_gastos_por_orgao.png)
+![Evolução Anual](02_evolucao_anual.png)
+![Categorias](03_categorias.png)
+![Heatmap Mensal](04_heatmap_mensal.png)
+![Regressão Linear](05_regressao_linear.png)
  
 ---
  
